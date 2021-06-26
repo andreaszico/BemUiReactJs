@@ -1,0 +1,29 @@
+<div className="w-full flex flex-wrap py-10 pt-5 lg:justify-between items-center justify-center">
+                    <div class="landasan w-96 bg-white shadow-md rounded-lg text-sm lg:mt-5 mt-5">
+                        <div className="w-full">
+                            <img className="rounded-t-lg" src="https://img.freepik.com/free-photo/praying-hands-with-faith-religion-belief-god-power-hope-devotion_79161-710.jpg?size=626&ext=jpg" alt="" />
+                        </div>
+                        <div className="p-4">
+                            <p className="text-xl font-medium mb-2">Marroha</p>
+                            <p>Will grow and shrink as needed without taking initial size into account</p>
+                        </div>
+                    </div>
+                    <div class="landasan w-96 bg-white shadow-md rounded-lg text-sm lg:mt-5 mt-5">
+                        <div className="w-full">
+                            <img className=" rounded-t-lg" src="https://img.freepik.com/free-photo/praying-hands-with-faith-religion-belief-god-power-hope-devotion_79161-710.jpg?size=626&ext=jpg" alt="" />
+                        </div>
+                        <div className="p-4">
+                            <p className="text-xl font-medium mb-2">Marroha</p>
+                            <p>Will grow and shrink as needed without taking initial size into account</p>
+                        </div>
+                    </div>
+                    <div class="landasan w-96 bg-white shadow-md rounded-lg text-sm lg:mt-5 mt-5">
+                        <div className="w-full">
+                            <img className=" rounded-t-lg" src="https://img.freepik.com/free-photo/praying-hands-with-faith-religion-belief-god-power-hope-devotion_79161-710.jpg?size=626&ext=jpg" alt="" />
+                        </div>
+                        <div className="p-4">
+                            <p className="text-xl font-medium mb-2">Marroha</p>
+                            <p>Will grow and shrink as needed without taking initial size into account</p>
+                        </div>
+                    </div>
+                </div>
